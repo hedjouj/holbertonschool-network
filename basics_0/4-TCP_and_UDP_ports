@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 #check les ports tcp et udp
-sudo netstat -tunlp
-netstat -p
+sudo netstat -tulpen
